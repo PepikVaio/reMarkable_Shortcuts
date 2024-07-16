@@ -4,15 +4,15 @@
     "email": "Wajsar.Josef@hotmail.com",
 
     "lang_en": {
-      "title": "Name:",
-      "version": "Version:",
-      "developer": "Developer:",
+      "label_title": "Name:",
+      "label_version": "Version:",
+      "label_developer": "Developer:",
     },
     
     "lang_cs": {
-      "title": "Název:",
-      "version": "Verze:",
-      "developer": "Vývojář:",
+      "label_title": "Název:",
+      "label_version": "Verze:",
+      "label_developer": "Vývojář:",
     }
   },
 
