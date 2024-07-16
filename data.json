@@ -104,7 +104,6 @@
     "icon_Back": "❮ ",
       
     "lang_en": {
-
       "99": {
         "title": "Settings",
         "content": "About, Send feedback, Reset settings ...",
@@ -126,9 +125,6 @@
     },
 
     "lang_cs": {
-      "title": "Vyberte styl extrakce!",
-      "page": "strana",
-
       "99": {
         "title": "Nastavení",
         "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
