@@ -23,7 +23,7 @@
         "┃*** New Update! ***",
         "┃A new version is available."
       ],
-      "content": [
+      "content_01": [
         "",
         "Please update before continuing.",
         "You will be redirected to the Github page to download the new version."
@@ -39,7 +39,7 @@
         "┃*** Nová aktualizace! ***",
         "┃K dispozici je nová verze"
       ],
-      "content": [
+      "content_01": [
         "",
         "Před pokračováním prosím aktualizujte.",
         "Budete přesměrováni na stránku Github pro stažení nové verze."
