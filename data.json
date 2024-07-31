@@ -6,13 +6,13 @@
     "lang_en": {
       "label_title": "Name:",
       "label_version": "Version:",
-      "label_developer": "Developer:",
+      "label_developer": "Developer:"
     },
     
     "lang_cs": {
       "label_title": "Název:",
       "label_version": "Verze:",
-      "label_developer": "Vývojář:",
+      "label_developer": "Vývojář:"
     }
   },
 
