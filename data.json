@@ -126,15 +126,17 @@
     },
 
     "lang_cs": {
+
       "99": {
         "title": "Nastavení",
         "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
+
         "label_01": "O zkratce",
         "label_02": "Poslat zpětnou vazbu",
         "label_03": "Přepnout jazyk na Angličtinu",
-
         "label_98": "Resetovat nastavení",
         "label_99": "Zpět",
+
         "content_02_01": "Zařízení:",
         "content_02_02": "Verze systému:",
         "content_02_03": [
