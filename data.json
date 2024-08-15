@@ -28,7 +28,7 @@
         "Please update before continuing.",
         "You will be redirected to the Github page to download the new version."
       ],
-      "instaled_Title": [
+      "installed_Title": [
         "┃*** Update installed! ***",
         "┃Great, you have the latest version."
       ]
@@ -44,7 +44,7 @@
         "Před pokračováním prosím aktualizujte.",
         "Budete přesměrováni na stránku Github pro stažení nové verze."
       ],
-      "instaled_Title": [
+      "installed_Title": [
         "┃*** Aktualizace nainstalovaná! ***",
         "┃Skvělé, máte aktuální verzi"
       ]
