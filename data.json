@@ -4,58 +4,58 @@
     "email": "Wajsar.Josef@hotmail.com",
 
     "lang_en": {
-      "label_title": "Name:",
-      "label_version": "Version:",
-      "label_developer": "Developer:"
+      "name": "Name:",
+      "version": "Version:",
+      "developer": "Developer:"
     },
     
     "lang_cs": {
-      "label_title": "Název:",
-      "label_version": "Verze:",
-      "label_developer": "Vývojář:"
+      "name": "Název:",
+      "version": "Verze:",
+      "developer": "Vývojář:"
     }
   },
 
   "release": {
 
     "lang_en": {
-      "title_01": [
+      "install_Title": [
         "┃*** New Update! ***",
         "┃A new version is available."
       ],
-      "content_01": [
+      "install_Content": [
         "",
         "Please update before continuing.",
         "You will be redirected to the Github page to download the new version."
       ],
-      "title_02": [
+      "instaled_Title": [
         "┃*** Update installed! ***",
         "┃Great, you have the latest version."
       ]
     },
 
     "lang_cs": {
-      "title_01": [
+      "install_Title": [
         "┃*** Nová aktualizace! ***",
         "┃K dispozici je nová verze"
       ],
-      "content_01": [
+      "install_Content": [
         "",
         "Před pokračováním prosím aktualizujte.",
         "Budete přesměrováni na stránku Github pro stažení nové verze."
       ],
-      "title_02": [
+      "instaled_Title": [
         "┃*** Aktualizace nainstalovaná! ***",
         "┃Skvělé, máte aktuální verzi"
       ]
     }
   },
 
-  "thank_you": {
+  "first_Run": {
 
     "lang_en": {
-      "title": "┃*** Thank you for downloading! ***",
-      "content": [
+      "thank_You_Title": "┃*** Thank you for downloading! ***",
+      "thank_You_Content": [
         "",
         "Dear user, thank you for downloading my shortcut. I hope it will be useful to you and brighten your day. If you have any questions or feedback, please feel free to contact me.",
         "",
@@ -74,8 +74,8 @@
     },
 
     "lang_cs": {
-      "title": "┃*** Děkuji za stažení! ***",
-      "content": [
+      "thank_You_Title": "┃*** Děkuji za stažení! ***",
+      "thank_You_Content": [
         "",
         "Vážený uživateli, děkuji, že jste si stáhl moji zkratku. Doufám, že vám bude přinášet užitek a zpříjemní vám váš den. Pokud budete mít jakékoli dotazy nebo připomínky, neváhejte mě kontaktovat.",
         "",
@@ -103,47 +103,46 @@
     "lang_en": {
 
       "99": {
-        "title": "Settings",
-        "content": "About, Send feedback, Reset settings ...",
+        "settings_Title": "Settings",
+        "settings_Subtitle": "About, Send feedback, Reset settings ...",
 
-        "label_01": "About",
-        "label_02": "Send feedback",
-        "label_03": "Switch language to Czech",
+          "submenu_About": "About",
+          "submenu_Feedback": "Send feedback",
+            "feedback_Device": "Device:",
+            "feedback_Version": "System version:",
+            "feedback_Thanks": [
+              "",
+              "Thank you for sending email.",
+              "I will try to reply as soon as possible.",
+              ""
+            ],       
+          "submenu_Switch": "Switch language to Czech",
 
-        "label_98": "Reset settings",
-        "label_99": "Back",
-
-        "content_02_01": "Device:",
-        "content_02_02": "System version:",
-        "content_02_03": [
-          "",
-          "Thank you for sending email.",
-          "I will try to reply as soon as possible.",
-          ""
-        ]
-      }
-    },
+          "submenu_Reset": "Reset settings",
+          "submenu_Back": "Back"
+        }
+      },
 
     "lang_cs": {
 
       "99": {
-        "title": "Nastavení",
-        "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
+        "settings_Title": "Nastavení",
+        "settings_Subtitle": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
 
-        "label_01": "O zkratce",
-        "label_02": "Poslat zpětnou vazbu",
-        "label_03": "Přepnout jazyk na Angličtinu",
-        "label_98": "Resetovat nastavení",
-        "label_99": "Zpět",
+          "submenu_About": "O zkratce",
+          "submenu_Feedback": "Poslat zpětnou vazbu",
+            "feedback_Device": "Zařízení:",
+            "feedback_Version": "Verze systému:",
+            "feedback_Thanks": [
+              "",
+              "Děkuji za zaslání emailu.",
+              "Pokusím se odpovědět co nejdříve.",
+              ""
+            ],         
+          "submenu_Switch": "Přepnout jazyk na Angličtinu",
 
-        "content_02_01": "Zařízení:",
-        "content_02_02": "Verze systému:",
-        "content_02_03": [
-          "",
-          "Děkuji za zaslání emailu.",
-          "Pokusím se odpovědět co nejdříve.",
-          ""
-        ]
+          "submenu_Reset": "Resetovat nastavení",
+          "submenu_Back": "Zpět"
       }
     }
   }
