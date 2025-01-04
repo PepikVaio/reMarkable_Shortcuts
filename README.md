@@ -1,1 +1,2 @@
-# reMarkable_data
+# Shortcuts (data)
+Read-only data for shortcuts
