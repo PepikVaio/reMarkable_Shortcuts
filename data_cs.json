@@ -46,20 +46,21 @@
 
 	"menu": {
 		"99": {
-			"settings_Title": "┃*** Nastavení! ***",
-			"settings_Subtitle": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
+			"title": "Nastavení",
+			"content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
 
 			"submenu_About": "O zkratce",
 			"submenu_Feedback": "Poslat zpětnou vazbu",
-			"feedback_Device": "Zařízení:",
-			"feedback_Version": "Verze systému:",
-			"feedback_Thanks": [
-            "",
-            "Děkuji za zaslání emailu.",
-            "Pokusím se odpovědět co nejdříve.",
-            ""
-          ],
+			  "feedback_Device": "Zařízení:",
+			  "feedback_Version": "Verze systému:",
+			  "feedback_Thanks": [
+          "",
+          "Děkuji za zaslání emailu.",
+          "Pokusím se odpovědět co nejdříve.",
+          ""
+        ],
 			"submenu_Switch": "Přepnout jazyk na Angličtinu",
+			"": "",
 			"submenu_Reset": "Resetovat nastavení",
 			"submenu_Back": "❮ Zpět"
 		},
